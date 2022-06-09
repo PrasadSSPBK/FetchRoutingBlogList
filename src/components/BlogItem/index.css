@@ -1,0 +1,44 @@
+.listItemContainer {
+  display: flex;
+  margin: 20px;
+  list-style-type: none;
+  border: 2px solid #8e8e8e;
+  padding: 10px;
+  /* box-shadow: 0px 4px 4px 0px #2f4f4f; */
+}
+.imgUrlContainer {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.imgUrl {
+  height: 180px;
+  width: 300px;
+}
+.avatarUrl {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  /* padding-left: 10px; */
+  padding-right: 10px;
+}
+
+.imgDetailsContainer {
+  display: flex;
+  flex-direction: column;
+}
+.listPara {
+  color: #d3d3d3;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.listHead {
+  color: #2f4f4f;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+}
+.avtarContainer {
+  display: flex;
+}
+.linkContainer {
+}
